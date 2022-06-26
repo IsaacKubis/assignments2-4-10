@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{AF39F2D3-C66A-40E1-A337-BD19D5AC5928}"
+	ProjectSection(SolutionItems) = preProject
+		assignmentsubmission10.html = assignmentsubmission10.html
+		Assignmentsubmission2.html = Assignmentsubmission2.html
+		assignmentsubmission4.html = assignmentsubmission4.html
+		assignmentsubmission5.html = assignmentsubmission5.html
+		assignmentsubmission6.html = assignmentsubmission6.html
+		assignmentsubmission7.html = assignmentsubmission7.html
+		assignmentsubmission8.html = assignmentsubmission8.html
+		assignmentsubmission9.html = assignmentsubmission9.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{A8B251FA-96FF-496D-9ABF-C99743BCE68A}"
+	ProjectSection(SolutionItems) = preProject
+		assignmentsubmission9.css = assignmentsubmission9.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "javascript", "javascript", "{B18ABC0A-13AB-4F60-B087-48AACA9ACD94}"
+	ProjectSection(SolutionItems) = preProject
+		assignmentsubmission10.js = assignmentsubmission10.js
+		assignmentsubmission2.js = assignmentsubmission2.js
+		assignmentsubmission4.js = assignmentsubmission4.js
+		assignmentsubmission5.js = assignmentsubmission5.js
+		assignmentsubmission6.js = assignmentsubmission6.js
+		assignmentsubmission7.js = assignmentsubmission7.js
+		assignmentsubmission8.js = assignmentsubmission8.js
+		assignmentsubmission9.js = assignmentsubmission9.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2016F45E-A699-4850-99F1-77E6A63AB500}
+	EndGlobalSection
+EndGlobal

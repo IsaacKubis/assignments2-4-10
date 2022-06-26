@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <h1>Concat</h1>
+        <button onclick="concat()">Concat</button>
+        <p id="concat"></p>
+    </div>
+
+    <div>
+        <h1>slice</h1>
+        <p>Please input where to start the array 0, 1, 2</p>
+        <input type="number" max="2" min="0" id="start" value="" />
+        <button onclick="slice()">Slice</button>
+        <p id="slice"></p>
+    </div>  
+
+    <div>
+        <h1>toString</h1>
+        <button onclick="dogstring()">toString</button>
+        <p id="dog"></p>
+    </div>
+
+    <div>
+        <h1>toPrecision</h1>
+        <p>Please enter a number with a max decimal place of 3 eg. 1.234</p>
+        <input id="numprecise" type="number" min="0" step="0.001" placeholder="0.000" 
+               onchange="setThreeDecimal" value=""/>
+        <button onclick="precise()">precise to 3 integers</button>
+        <p id="precise"></p>
+    </div>
+    <script src="assignmentsubmission8.js"></script>
+</body>
+</html>
